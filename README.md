@@ -12,3 +12,6 @@
 `sudo systemctl start apache2`
 - **Fedora**
 `sudo systemctl start httpd`
+
+- **Install browsh** 
+https://www.brow.sh/docs/installation/
