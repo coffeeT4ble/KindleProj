@@ -5,8 +5,8 @@
 **Fedora**
 `sudo dnf install httpd`
 
-install the files and move them to /var/www
-if the html and cgi-bin directories exist just move the html and bash scripts into there
+- install the files and move them to /var/www
+- if the html and cgi-bin directories exist just move the html and bash scripts into there
 
 **Debian**
 `sudo systemctl start apache2`
